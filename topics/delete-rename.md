@@ -9,7 +9,7 @@ manager: "renwe"
 ---
 
 
-<!-- Confirm that this is still the process to follow when deleting or renaming. Ask Buckley to review this info. -->
+<!-- This needs updating. Tool will take care of the redirects. The info below is relevant only for April '19 and earlier. -->
 
 # Deleting or renaming topic files
 

@@ -10,9 +10,17 @@ manager: "annbe"
 
 # Contributors guide: Get started
 
-Our content is hosted on GitHub. Complete the following steps to get started
-with contributing or editing content in our docs repos on
-GitHub.
+Our content is created in the Release Planner tool and hosted on GitHub. Complete the following steps to get started
+with the Release Planner tool.
+
+<!-- Does order matter with GitHub account and Tool access? -->
+
+
+## Get started with the Release Planner tool
+
+<!-- Add link to tool guide. -->
+
+To learn how to work on content in the tool, see the Release Planner Tool Guide. 
 
 ## Create GitHub account and join our org
 
@@ -51,11 +59,11 @@ You can update your GitHub profile info here: <https://github.com/settings/profi
 
 ## Our repos
 
-These are the repos where we host our content:
+This list contains the most used GitHub repos. For a complete list of the repos managed by the BACX CE team, see [Repos managed by BACX Content Engineering](crmce-repos.md)
 
 | **Product/Feature**              | **Repo URL**                                                           |
 |----------------------------------|------------------------------------------------------------------------|
-|Common Data Model                 | https://github.com/MicrosoftDocs/common-data-model-pr                  |
+| Common Data Model                 | https://github.com/MicrosoftDocs/common-data-model-pr                  |
 | Dynamics 365 AI                  | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                    |
 | Dynamics 365 Hub                 | https://github.com/MicrosoftDocs/dynamics365hubpages                   |
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
@@ -65,8 +73,6 @@ These are the repos where we host our content:
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
 | Release Notes                    | <https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes>    |
 
-> [!NOTE]
-> This list contains the most used GitHub repos. For a complete list of the repos managed by the BACX CE team, see [Repos managed by BACX Content Engineering](crmce-repos.md)
 
 > [!div class="nextstepaction"]
 > [Work directly in our repos](work-repos.md)

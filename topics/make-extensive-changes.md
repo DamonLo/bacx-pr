@@ -8,6 +8,10 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
+
+<!-- might no longer be relevant. This should be done in the tool. Exclude this topic? -->
+
+
 # Make extensive changes to docs
 
 If you want to make changes in multiple files and are aware of the file location

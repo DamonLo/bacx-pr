@@ -6,10 +6,7 @@ ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
-# Explore the Release Notes repo
-
-
-<!-- Note that the link in the first paragraph goes to April and earlier release notes. Add links to Wave 2 for D365 and Power Platform. -->
+# Explore the release plans repo
 
 
 The root of the [release plans repo](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes) contains an **articles** folder. For example, it might contain: 

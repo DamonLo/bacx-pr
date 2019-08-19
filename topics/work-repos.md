@@ -8,9 +8,12 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
+<!-- This might no longer be relevant. Updates should be done in the tool. Remove this topic? -->
+
+
 # Work directly in our repos
 
-Choose the best method for your content work!
+Choose the best method for your content work.
 
 Depending on the level of changes you want to make and whether you prefer working online using a browser or using Git tools to work on a local copy of the repo (clone) on your computer, select one of the following methods:
 

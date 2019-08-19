@@ -8,6 +8,10 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
+
+<!-- Might no longer be relevant. Exclude this topic? -->
+
+
 # Make quick edits to a topic
 
 This is helpful if you are looking to make quick edits to a topic, and don't want to spend time finding the topic in our GitHub repo. Also, this does not require you to install any tools on your PC; all the work can be done using the browser! 

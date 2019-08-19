@@ -8,7 +8,10 @@ ms.author: "bigoswam"
 manager: "renwe"
 ---
 
-# Public Pull-Request Contribution Guide
+<!-- Should this stay? -->
+
+
+# Public pull-request contribution guide
 
 This guide explains the process to handle public contribution for repositories managed by BACX Content-Engineering team. Following are the available guides.
 

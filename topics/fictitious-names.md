@@ -8,6 +8,12 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
+
+<!-- Link to 2019 fake names: onenote:https://microsoft.sharepoint-df.com/teams/Dynamics365CustomerEngagementEditingResources/Shared%20Documents/Dynamics365CE_EditingResources/Style%20Guidelines.one#Fictitious%20Names&section-id=%7B19CEAB96-642A-49BA-8020-8958EA8CDB93%7D&page-id=%7B0E4AC149-4669-4C0E-B262-F10FF3158758%7D&end
+-->
+
+
+
 # Fictitious names
 
 When we write examples in our content, sometimes we need to use the names of

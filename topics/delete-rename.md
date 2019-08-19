@@ -8,9 +8,12 @@ ms.author: "buckg"
 manager: "renwe"
 ---
 
+
+<!-- Confirm that this is still the process to follow when deleting or renaming. Ask Buckley to review this info. -->
+
 # Deleting or renaming topic files
 
-Deleting or renaming a topic file in GitHub will cause any existing links to the topic to error on docs.microsoft.com. To give customers a better experience, we can put redirections in place.
+Deleting or renaming a topic file will cause any existing links to the topic to error on docs.microsoft.com. To give customers a better experience, we can put redirections in place.
 
 There are also localization considerations with deletions and renames. If the deleting or renaming isn't coordinated correctly, the localization handback can fail.
 
@@ -25,12 +28,12 @@ These changes can be pushed live at any time. They will effectively hide the rem
 
  1.	Writer/Editor opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/_workitems/create/Task?templateId=adfeaa5a-22a9-4416-9755-9b9980c42822&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae), for CE listing topics to delete, and redirection target for each deleted topic. *If you don't have access to the OneCRM TFS instance, go to [http://myaccess](http://myaccess) and request access to either **CRM FTE Dev/Test Source Read-Write** (for FTEs), or **CRM Vendor Source** (for vendors).*
  
- 1.	CE coordinates timing with localization
+ 1.	CE coordinates timing with localization.
  
- 1.	CE deletes topic(s), and implements redirect(s) in a working branch
+ 1.	CE deletes topics, and implements redirects in a working branch.
  
- 1.	CE opens PR from working branch to "master", adds Writer/Editor as reviewer
+ 1.	CE opens PR from working branch to "master", adds writer/editor as reviewer.
  
- 1.	When approved by Writer/Editor, CE merges to "master" and deletes working branch
+ 1.	When approved by writer/editor, CE merges to "master" and deletes working branch.
 
 

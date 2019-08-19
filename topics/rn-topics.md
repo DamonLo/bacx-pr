@@ -7,7 +7,11 @@ author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
 # Topic types and their requirements
-Here are general requirements for each type of topic we have in the Release Notes. 
+Here are general requirements for each type of topic we have in the Release Plans. 
+
+
+
+<!-- Update these examples -- >
 
 Also check out these great examples of each type: 
 
@@ -16,31 +20,32 @@ Also check out these great examples of each type:
 - Summary of what's new: 
   - Online-only table: [Summary of what's new in Microsoft Flow](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/microsoft-flow/planned-features)
   - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
-
-- Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
-  For example, see how Talent and PowerApps did their change history tables. 
-
 - Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
 
 
 
 ## Feature topics
 
-- Start by saying the value proposition of the feature.
-- Include screenshots or an image to help users see the benefits, if a visual element can add interest.
-- Be as descriptive as you can. And go back when you know more to add more info. It's the number one piece of feedback we get from customers about the Release Notes. They want more details about your features. 
+- Start by defining the value proposition of the feature (in the Business Value section).
+- Include screenshots or an image to help users see the benefits, if a visual element can add interest. 
+- Be as descriptive as you can. Update the topic when you have more info. It's the No. 1 piece of feedback we get from customers about the Release Plans. They want more details about your features. 
 - Once a feature ships, make sure to add the links to the shipped docs that went with it so users can get as much info as possible.
+
+<!-- Do we still use this label? -->
 - If this is a new feature, it should have the new feature label.
+
+<!-- If you change the title, does the tool automatically change it elsewhere? -->
 - If you change a feature’s title, make the same change in these places:
   - the title tag of the topic for that feature 
   - the H1 of the same topic
-  - For features that will ship to public preview in the six-month window of the release, ensure that “(Public Preview)” appears at the end of the H1.
+  - For features that will ship to public preview in the six-month window of the release, ensure that “(Public Preview)” appears at the end of the title.
   -  the link from toc.md to the feature topic
   - the link from planned-features.md to the feature topic
   - the link (if any) from change-history to the feature topic
+  
+  
 - Ensure that the description tag follows the same guidelines as other topics do for SEO, etc.
-- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
-- Ensure that toc.md shows features in the same sequence as planned-features.md.
+- Ensure that the body of the topic meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
 - If you are the CP Owner, don’t update any metadata tags except title and description.

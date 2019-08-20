@@ -9,24 +9,22 @@ manager: "renwe"
 ---
 
 
-<!-- This needs updating. Tool will take care of the redirects. The info below is relevant only for April '19 and earlier. -->
-
 # Deleting or renaming topic files
 
 Deleting or renaming a topic file will cause any existing links to the topic to error on docs.microsoft.com. To give customers a better experience, we can put redirections in place.
 
 There are also localization considerations with deletions and renames. If the deleting or renaming isn't coordinated correctly, the localization handback can fail.
 
-> [!NOTE]
-> We have introduced a new validation check in GitHub for deleted/renamed files for Pull-Requests targeting master branch. This validation check will run along with other build checks by OPS when a pull-request is created. Once the check is finished validating, it reports back the deleted files (if any) as a comment in the pull-request similar to build comments. If any deleted files are reported by the new validation check for pull-request, please add back the deleted files and follow the listed steps to mitigate the pull-request build error for deleted/renamed files.
-> Currently the validation check is enabled only for the **Customer-Engagement** repository.
+> [!IMPORTANT]
+> If you are working in the Release Planner Tool, the tool will take care of redirects if a feature is deleted. But if you want to delete content from April '19 release notes or earlier, you will need to follow the steps outlined here.
 
-Follow this process for deleting or renaming a file.
+Follow this process for deleting or renaming a file (April '19 release notes or earlier):
 
- 1.  Writer/Editor updates TOC, planned features, change history, and any other topics referencing the removed content. They then coordinate the appropriate reviews and push the changes to "master."
-These changes can be pushed live at any time. They will effectively hide the removed content from users. Actually deleting/renaming the topic needs to be timed with localization.
+ 1.  Writer updates TOC, planned features, change history, and any other topics referencing the removed content. Then they coordinate the appropriate reviews and push the changes to "master."
+ 
+     These changes can be pushed live at any time. They will effectively hide the removed content from users. Actually deleting/renaming the topic needs to be timed with localization.
 
- 1.	Writer/Editor opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/_workitems/create/Task?templateId=adfeaa5a-22a9-4416-9755-9b9980c42822&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae), for CE listing topics to delete, and redirection target for each deleted topic. *If you don't have access to the OneCRM TFS instance, go to [http://myaccess](http://myaccess) and request access to either **CRM FTE Dev/Test Source Read-Write** (for FTEs), or **CRM Vendor Source** (for vendors).*
+ 1.	Writer opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/_workitems/create/Task?templateId=adfeaa5a-22a9-4416-9755-9b9980c42822&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae), for CE listing topics to delete, and redirection target for each deleted topic. *If you don't have access to the OneCRM TFS instance, go to [http://myaccess](http://myaccess) and request access to either **CRM FTE Dev/Test Source Read-Write** (for FTEs), or **CRM Vendor Source** (for vendors).*
  
  1.	CE coordinates timing with localization.
  

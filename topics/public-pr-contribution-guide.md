@@ -8,8 +8,6 @@ ms.author: "bigoswam"
 manager: "renwe"
 ---
 
-<!-- Should this stay? -->
-
 
 # Public pull-request contribution guide
 

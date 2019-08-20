@@ -1,7 +1,5 @@
 
 
-<!-- Is this info needed? Seems not important. -->
-
 
 # Permission Levels
 

@@ -1,6 +1,6 @@
 ---
 title: "Use browser to contribute| MicrosoftDocs"
-ms.date: 07/26/2018
+ms.date: 07/27/2018
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"

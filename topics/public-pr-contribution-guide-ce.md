@@ -8,9 +8,7 @@ ms.author: "bigoswam"
 manager: "renwe"
 ---
 
-
-<!-- Should this stay? -->
-
+<!--Unsure if this is needed or still accurate. We'd need to add the two new repos, if this is still relevant. -->
 
 # Introduction
 

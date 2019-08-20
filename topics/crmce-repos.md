@@ -6,7 +6,7 @@ akey: avalue
 
 ## Repos managed by BACX Content Engineering
 
-[!div class="mx-tableFixed"]
+> [!div class="mx-tableFixed"]
 | Description | GitHub URL | Content URL | Loc info |
 |-------------|------------|-------------|----------|
 | AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai |Loc'd by BAG IE team (all folders except Market Insights are in localization) |
@@ -33,11 +33,11 @@ akey: avalue
 
 ## BACX repos managed by other teams
 
-[!div class="mx-tableFixed"]
-| Description | GitHub URL | Content URL | Loc info |
-|-------------|------------|-------------|----------|
-| Business Central - Private | https://github.com/MicrosoftDocs/dynamics365smb-docs-pr | https://docs.microsoft.com/en-us/dynamics365/business-central/index | Loc by BAG IE CE |
-| Business Central - Public | https://github.com/MicrosoftDocs/dynamics365smb-docs | https://docs.microsoft.com/en-us/dynamics365/business-central/index | |
-| Finance and Operations - Private | https://github.com/MicrosoftDocs/Dynamics-365-Operations | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | Loc by BAG IE F&O |
-| Finance and Operations - Public | https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | |
+> [!div class="mx-tableFixed"]
+> | Description | GitHub URL | Content URL | Loc info |
+> |-------------|------------|-------------|----------|
+> | Business Central - Private | https://github.com/MicrosoftDocs/dynamics365smb-docs-pr | https://docs.microsoft.com/en-us/dynamics365/business-central/index | Loc by BAG IE CE |
+> | Business Central - Public | https://github.com/MicrosoftDocs/dynamics365smb-docs | https://docs.microsoft.com/en-us/dynamics365/business-central/index | |
+> | Finance and Operations - Private | https://github.com/MicrosoftDocs/Dynamics-365-Operations | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | Loc by BAG IE F&O |
+> | Finance and Operations - Public | https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | |
 

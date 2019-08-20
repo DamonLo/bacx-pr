@@ -2,10 +2,9 @@
 akey: avalue
 ---
 
-<!-- Move to appendix? -->
+# Repos
 
-
-# Repos managed by BACX Content Engineering
+## Repos managed by BACX Content Engineering
 
 | Description | GitHub URL | Content URL | Loc info |
 |-------------|------------|-------------|----------|
@@ -31,7 +30,7 @@ akey: avalue
 | Dynamics 365 Release Notes - Private                            | https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr    | https://review.docs.microsoft.com/en-us/dynamics365-release-notes/?branch=master | Loc by BAG IE CE |
 | Power Platform Release Notes - Private                            | https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr    | https://review.docs.microsoft.com/en-us/power-platform-release-notes/?branch=master | Loc by BAG IE CE |
 
-# BACX repos managed by other teams
+## BACX repos managed by other teams
 
 | Description | GitHub URL | Content URL | Loc info |
 |-------------|------------|-------------|----------|

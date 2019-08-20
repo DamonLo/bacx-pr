@@ -78,5 +78,4 @@ This list contains our most-used GitHub repos. For a complete list of the repos 
 | Power Platform release plans     | https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr         |
 | Release Notes (April '19 and earlier | https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes    |
 
-> [!div class="nextstepaction"]
-> [Work directly in our repos](work-repos.md)
+

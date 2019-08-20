@@ -3,14 +3,14 @@ author: buck1ey
 ---
 
 
-<!-- Who is this topic relevant for - editors and publishers? Do PMs or writers need to know this? -->
-
 
 # Review links
 
-There are multiple ways to find review links to content in your branches.
+There are multiple ways to find review links to content in branches you are working in. This is useful if you are editing content in GitHub and want to see how it will look when live on docs.
 
-Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails, or on the OPS build portal. You can also navigate between branches on the review site to find your content.
+Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails that you receive when you commit a change. 
+
+You can also navigate between branches on the review site to find your content.
 
 ## OPS build email
 
@@ -19,37 +19,15 @@ Each time you commit a change, the build system ("OPS") generates a build, and p
  > [!div class="mx-imgBorder"]
  > ![Review links in build status email](media/review-email.png "Review links in build status email")
 
-Click **View** to navigate to a review build of a particular page. To find links for all topics included in a build, click **Open Publishing Publish Report** near the end of the build status email.
+Click **View** to navigate to a review build of a particular page. 
 
 If you aren't receiving build status emails, check your GitHub notification settings.
 
- 1. Navigate to <https://github.com/settings/notifications>. You may need to log     in to GitHub.
+ 1. Navigate to <https://github.com/settings/notifications>. You may need to log in to GitHub.
 
- 2. Under **Email notification perferences**, verify the email address in     **Default notification email**, and make sure **Include your own updates**  is checked.
+ 2. Under **Email notification perferences**, verify the email address in **Default notification email**, and make sure **Include your own updates** is checked.
 
 Also check your Outlook rules to make sure the messages aren't being blocked.
-
-## OPS build portal
-
-The OPS build portal gives an overview of OPS builds. To see the status of your build, and access review links:
-
- 1. Navigate to [http://ops](http://ops) and sign in.
-
- 2. Find your repo by either scrolling in the left pane, or using the search box. Select it.
-
- > [!NOTE]
- > To make it easier to find your report in the future, you can either click the star icon to add a particular repo to your list of favorites, or bookmark the page URL.
-
- 3. Depending on the type of report, you may need to click either the **Build History** or **Builds** tab.
-
- 4. Scroll down to find the build for your commit.
-
- 5. Once the build is completed, click to expand.
-
- 6. Scroll down for review links. You can also click **Report** to see the build report.
-
- > [!div class="mx-imgBorder"]
- > ![Review links on OPS site](media/build-url.png "Review links on OPS site")
 
 ## Navigating the review site
 

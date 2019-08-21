@@ -1,5 +1,6 @@
 # [Business Applications Content Experience Team (BACX)](index.md)
-## [Contributors Guide for docs](contributors-guide.md)
+## [Contributors guide for Release Plans](release-plan-guide.md)
+## [Contributors guide for product documentation](contributors-guide.md)
 ### [Get started](get-started.md)
 ### [Work directly in our repos](work-repos.md)
 #### [Make quick edits to a topic](make-quick-edits.md)
